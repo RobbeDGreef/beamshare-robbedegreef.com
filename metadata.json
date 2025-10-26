@@ -1,0 +1,8 @@
+{
+  "name": "Beamshare",
+  "description": "Share single screen to another monitor",
+  "uuid": "beamshare@robbedegreef.com",
+  "shell-version": [
+    "48"
+  ]
+}
